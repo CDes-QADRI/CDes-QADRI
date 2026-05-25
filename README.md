@@ -29,3 +29,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=620&lines=Blockchain+Developer+%7C+Solidity+%2B+Foundry;AI+Engineer+%7C+ML+%C2%B7+DL+%C2%B7+NLP+%C2%B7+Computer+Vision;Building+on+Ethereum%2C+Arbitrum+%26+Avalanche;Cybersecurity+Explorer+%7C+DevOps+Practitioner" alt="Typing SVG"/>
   </a>
 </p>
+
+<!-- SOCIAL BADGES -->
+<p align="center">
+  <a href="https://x.com/QADRIonChain"><img src="https://img.shields.io/badge/@QADRIonChain-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>&#8287;
+  <a href="https://www.linkedin.com/in/muhammad-abdullah-qadri-1917383a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&#8287;
+  <a href="https://t7qadri.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&#8287;
+  <a href="mailto:qadrinoobhere@icloud.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
