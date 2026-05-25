@@ -78,3 +78,15 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDes-QADRI&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" height="180" alt="Top Languages"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=CDes-QADRI&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CDes-QADRI">
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=CDes-QADRI&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=bf91f3&point=70a5fd&area=true&area_color=70a5fd" width="96%" alt="Activity Graph"/>
+  </a>
+</p>
