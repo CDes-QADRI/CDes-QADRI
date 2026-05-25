@@ -54,3 +54,13 @@
 - &#128107;&nbsp; Looking to collaborate on **Web3 / DeFi protocols**, **ML research**, and **open-source security tooling**
 - &#9889;&nbsp; I daily-drive **Arch Linux** with **Neovim** &mdash; because true builders configure everything from scratch
 - &#128231;&nbsp; Reach me at **qadrinoobhere@icloud.com**
+
+---
+
+## &#127942; GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=CDes-QADRI&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+  </a>
+</p>
