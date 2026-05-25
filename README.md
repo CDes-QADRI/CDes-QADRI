@@ -37,3 +37,10 @@
   <a href="https://t7qadri.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&#8287;
   <a href="mailto:qadrinoobhere@icloud.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+
+<!-- PROFILE VIEWS + FOLLOWERS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CDes-QADRI&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS" alt="Profile Views"/>&#8287;
+  <a href="https://github.com/CDes-QADRI?tab=followers"><img src="https://img.shields.io/github/followers/CDes-QADRI?style=for-the-badge&color=bf91f3&labelColor=0d1117&logo=github&label=FOLLOWERS" alt="Followers"/></a>&#8287;
+  <a href="https://github.com/CDes-QADRI"><img src="https://img.shields.io/github/stars/CDes-QADRI?style=for-the-badge&color=f7b955&labelColor=0d1117&logo=github&label=STARS" alt="Stars"/></a>
+</p>
