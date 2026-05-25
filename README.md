@@ -15,3 +15,10 @@
 <p align="center">
   <em>A techie passionate about <b>AI</b> &amp; <b>Blockchain</b></em>
 </p>
+
+<!-- CHAT BUBBLE INTRO (iOS-style) -->
+<p align="center">
+  <a href="https://x.com/QADRIonChain">
+    <img src="./chat.svg" alt="Chat Introduction" width="650"/>
+  </a>
+</p>
