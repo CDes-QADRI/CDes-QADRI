@@ -22,3 +22,10 @@
     <img src="./chat.svg" alt="Chat Introduction" width="650"/>
   </a>
 </p>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=620&lines=Blockchain+Developer+%7C+Solidity+%2B+Foundry;AI+Engineer+%7C+ML+%C2%B7+DL+%C2%B7+NLP+%C2%B7+Computer+Vision;Building+on+Ethereum%2C+Arbitrum+%26+Avalanche;Cybersecurity+Explorer+%7C+DevOps+Practitioner" alt="Typing SVG"/>
+  </a>
+</p>
