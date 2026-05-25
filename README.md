@@ -160,3 +160,23 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CDes-QADRI/CDes-QADRI/output/github-snake.svg"/>
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/CDes-QADRI/CDes-QADRI/output/github-snake-dark.svg"/>
 </picture>
+
+---
+
+## &#129309; Let's Connect
+
+<p align="center">
+  <a href="https://x.com/QADRIonChain"><img src="https://img.shields.io/badge/%F0%9D%95%8F_%40QADRIonChain-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>&#8287;
+  <a href="https://www.linkedin.com/in/muhammad-abdullah-qadri-1917383a0/"><img src="https://img.shields.io/badge/Muhammad_Abdullah_Qadri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&#8287;
+  <a href="https://t7qadri.vercel.app"><img src="https://img.shields.io/badge/t7qadri.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&#8287;
+  <a href="mailto:qadrinoobhere@icloud.com"><img src="https://img.shields.io/badge/qadrinoobhere@icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <i>&laquo; Show me the code and I'll show you the future &raquo;</i>
+</p>
+
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=120&section=footer" width="100%" alt="footer"/>
+</p>
