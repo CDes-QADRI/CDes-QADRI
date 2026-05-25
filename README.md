@@ -64,3 +64,17 @@
     <img src="https://github-profile-trophy.vercel.app/?username=CDes-QADRI&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
   </a>
 </p>
+
+---
+
+## &#128202; GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/CDes-QADRI">
+    <img src="https://github-readme-stats.vercel.app/api?username=CDes-QADRI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" height="180" alt="GitHub Stats"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/CDes-QADRI">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDes-QADRI&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" height="180" alt="Top Languages"/>
+  </a>
+</p>
