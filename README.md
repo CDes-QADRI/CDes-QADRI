@@ -57,16 +57,6 @@
 
 ---
 
-## &#127942; GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=CDes-QADRI&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
-  </a>
-</p>
-
----
-
 ## &#128202; GitHub Stats
 
 <p align="center">
