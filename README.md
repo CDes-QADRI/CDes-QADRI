@@ -165,7 +165,7 @@
       <br>C++
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/rust-icon.svg" alt="Rust" width="65" height="65"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="65" height="65"/>
       <br>Rust
     </td>
     <td align="center" width="96">
@@ -183,11 +183,11 @@
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="65" height="65"/>
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="65" height="65"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="65" height="65"/>
       <br>Linux
     </td>
     <td align="center" width="96">
@@ -203,11 +203,11 @@
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/postgres-icon.svg" alt="Postgres" width="65" height="65"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="65" height="65"/>
       <br>Postgres
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="VS Code" width="65" height="65"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="65" height="65"/>
       <br>VS Code
     </td>
   </tr>
