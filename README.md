@@ -44,3 +44,13 @@
   <a href="https://github.com/CDes-QADRI?tab=followers"><img src="https://img.shields.io/github/followers/CDes-QADRI?style=for-the-badge&color=bf91f3&labelColor=0d1117&logo=github&label=FOLLOWERS" alt="Followers"/></a>&#8287;
   <a href="https://github.com/CDes-QADRI"><img src="https://img.shields.io/github/stars/CDes-QADRI?style=for-the-badge&color=f7b955&labelColor=0d1117&logo=github&label=STARS" alt="Stars"/></a>
 </p>
+
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> About Me
+
+- &#128302;&nbsp; I'm currently building a **decentralized application** for the **Arbitrum Buildathon** on [HackQuest](https://hackquest.io) &mdash; engineering scalable L2 solutions
+- &#127793;&nbsp; Deepening expertise in **Machine Learning** and **Advanced Solidity Smart Contract Development**
+- &#128107;&nbsp; Looking to collaborate on **Web3 / DeFi protocols**, **ML research**, and **open-source security tooling**
+- &#9889;&nbsp; I daily-drive **Arch Linux** with **Neovim** &mdash; because true builders configure everything from scratch
+- &#128231;&nbsp; Reach me at **qadrinoobhere@icloud.com**
