@@ -150,3 +150,13 @@
     <img src="https://skillicons.dev/icons?i=solidity,py,rust,docker,linux,arch,neovim,vim,vscode,git,github,react&theme=dark&perline=12" alt="Skill Icons"/>
   </a>
 </p>
+
+---
+
+## &#128013; Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CDes-QADRI/CDes-QADRI/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CDes-QADRI/CDes-QADRI/output/github-snake.svg"/>
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/CDes-QADRI/CDes-QADRI/output/github-snake-dark.svg"/>
+</picture>
