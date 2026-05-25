@@ -61,11 +61,24 @@
 
 <p align="center">
   <a href="https://github.com/CDes-QADRI">
-    <img src="https://github-readme-stats.vercel.app/api?username=CDes-QADRI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" height="180" alt="GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CDes-QADRI&theme=tokyonight" height="170" alt="GitHub Stats"/>
   </a>
   &nbsp;
   <a href="https://github.com/CDes-QADRI">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDes-QADRI&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" height="180" alt="Top Languages"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CDes-QADRI&theme=tokyonight" height="170" alt="Languages per Repo"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/CDes-QADRI">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CDes-QADRI&theme=tokyonight" height="170" alt="Most Commit Language"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/CDes-QADRI">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CDes-QADRI&theme=tokyonight&utcOffset=5" height="170" alt="Productive Time"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/CDes-QADRI">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CDes-QADRI&theme=tokyonight" height="170" alt="Profile Details"/>
   </a>
 </p>
 
