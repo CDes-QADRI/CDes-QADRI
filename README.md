@@ -147,12 +147,79 @@
 
 <br/>
 
-<!-- SKILL ICONS GALLERY -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,py,rust,docker,linux,arch,neovim,vim,vscode,git,github,react&theme=dark&perline=12" alt="Skill Icons"/>
-  </a>
-</p>
+<!-- TECH ICONS GRID — techstack-generator animated SVGs -->
+<h3 align="center">💻 My Favorite Tools &amp; Technologies</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65"/>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65"/>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"/>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/rust-icon.svg" alt="Rust" width="65" height="65"/>
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65"/>
+      <br>Nginx
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65"/>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="65" height="65"/>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65"/>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65"/>
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/postgres-icon.svg" alt="Postgres" width="65" height="65"/>
+      <br>Postgres
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="VS Code" width="65" height="65"/>
+      <br>VS Code
+    </td>
+  </tr>
+</table>
 
 ---
 
