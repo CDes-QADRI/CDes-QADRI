@@ -141,3 +141,12 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 </details>
+
+<br/>
+
+<!-- SKILL ICONS GALLERY -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=solidity,py,rust,docker,linux,arch,neovim,vim,vscode,git,github,react&theme=dark&perline=12" alt="Skill Icons"/>
+  </a>
+</p>
