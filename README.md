@@ -173,7 +173,7 @@
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/avalanche" alt="Avalanche" width="65" height="65"/>
+      <img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/info/logo.png" alt="Avalanche" width="65" height="65"/>
       <br>Avalanche
     </td>
   </tr>
