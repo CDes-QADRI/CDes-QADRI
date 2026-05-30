@@ -149,20 +149,20 @@
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65"/>
-      <br>React
+      <img src="https://cdn.simpleicons.org/solidity/ffffff" alt="Solidity" width="65" height="65"/>
+      <br>Solidity
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65"/>
-      <br>TypeScript
+      <img src="https://github.com/foundry-rs.png?size=65" alt="Foundry" width="65" height="65"/>
+      <br>Foundry
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
-      <br>JavaScript
+      <img src="https://cdn.simpleicons.org/ethereum/627EEA" alt="Ethereum" width="65" height="65"/>
+      <br>Ethereum
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"/>
-      <br>C++
+      <img src="https://cdn.simpleicons.org/arbitrum" alt="Arbitrum" width="65" height="65"/>
+      <br>Arbitrum
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="65" height="65"/>
@@ -173,8 +173,8 @@
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65"/>
-      <br>Nginx
+      <img src="https://cdn.simpleicons.org/avalanche" alt="Avalanche" width="65" height="65"/>
+      <br>Avalanche
     </td>
   </tr>
   <tr>
@@ -191,20 +191,20 @@
       <br>Linux
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65"/>
-      <br>AWS
+      <img src="https://cdn.simpleicons.org/hackthebox" alt="HackTheBox" width="65" height="65"/>
+      <br>HackTheBox
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65"/>
-      <br>GraphQL
+      <img src="https://cdn.simpleicons.org/metasploit" alt="Metasploit" width="65" height="65"/>
+      <br>Metasploit
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
-      <br>MySQL
+      <img src="https://cdn.simpleicons.org/burpsuite" alt="Burp Suite" width="65" height="65"/>
+      <br>Burp Suite
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="65" height="65"/>
-      <br>Postgres
+      <img src="https://cdn.simpleicons.org/nmap" alt="Nmap" width="65" height="65"/>
+      <br>Nmap
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="65" height="65"/>
