@@ -161,7 +161,7 @@
       <br>Ethereum
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/arbitrum" alt="Arbitrum" width="65" height="65"/>
+      <img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/info/logo.png" alt="Arbitrum" width="65" height="65"/>
       <br>Arbitrum
     </td>
     <td align="center" width="96">
