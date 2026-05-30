@@ -203,7 +203,7 @@
       <br>Burp Suite
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/nmap" alt="Nmap" width="65" height="65"/>
+      <img src="https://github.com/nmap.png?size=65" alt="Nmap" width="65" height="65"/>
       <br>Nmap
     </td>
     <td align="center" width="96">
